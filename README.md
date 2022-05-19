@@ -1,2 +1,1 @@
-My first readme
-on ALX projects new
+My first readme updated
